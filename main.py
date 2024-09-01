@@ -1,3 +1,6 @@
+#Dados ramdomicos
+
+
 import random
 
 d1=random.Random()
